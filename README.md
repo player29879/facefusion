@@ -105,3 +105,9 @@ uis:
   --open-browser                                                                                                                                                                        open the browser once the program is ready
   --ui-layouts UI_LAYOUTS [UI_LAYOUTS ...]                                                                                                                                              launch a single or multiple UI layouts (choices: benchmark, default, webcam, ...)
 ```
+
+
+Documentation
+-------------
+
+Read the [documentation](https://docs.facefusion.io) for a deep dive.
